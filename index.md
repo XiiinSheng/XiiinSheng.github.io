@@ -1,5 +1,5 @@
 # Xin Sheng
-![img not found](photo-professional.jpg)
+<img src="photo-professional.jpg" alt="photo" width="200"/>
 I'm a UCSD Math-Computer Science student graduating in 2023, and a full-stack software engineer experienced in C++, React.js, data structure, and algorithm. I'm experienced in software design and engineering in both the industry and academic environments.
 
 **Email:** xisheng@ucsd.edu  
