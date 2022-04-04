@@ -4,7 +4,7 @@ I'm a UCSD Math-Computer Science student graduating in 2023, and a full-stack so
 **Email:** xisheng@ucsd.edu  
 **GitHub:** [https://github.com/XiiinSheng](https://github.com/XiiinSheng)  
 **LinkedIn:** [https://linkedin.com/in/xin-sheng-9ba980205/](https://linkedin.com/in/xin-sheng-9ba980205/)  
-**Resume/CV:** [Resume](Xin_Sheng_mathCS.pdf)
+**Resume/CV:** <a href="Xin_Sheng_mathCS.pdf" target="_blank">Resume</a>
 
 ## Education
 ### University of California San Diego: B.S. in Mathematics - Computer Science
