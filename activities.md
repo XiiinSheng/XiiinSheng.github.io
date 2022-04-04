@@ -37,3 +37,4 @@ October 2019 - February 2020
 
 *	Collaborated with engineering students in designing the circuit board for maze-solving robot using EagleCAD and Altium, in support of its functionality of speed-solving a physical maze using flood-fill algorithm. 
 
+[Back to Home](index.md)
