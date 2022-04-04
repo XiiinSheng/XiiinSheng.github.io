@@ -25,3 +25,5 @@ Honolulu, Hawaii
 
 *	Forged computer network and IT skills through working with professionals on projects including Windows server monitoring, UniServer update, PDQ deployment, cross-server transfer, etc. 
 *	Produced Windows and PowerShell scripts for task automation in computer network. 
+
+[Back to Home](index.md)
