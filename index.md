@@ -2,8 +2,8 @@
 I'm a UCSD Math-Computer Science student graduating in 2023, and a full-stack software engineer experienced in C++, React.js, data structure, and algorithm. I'm experienced in software design and engineering in both the industry and academic environments.
 
 **Email:** xisheng@ucsd.edu  
-**GitHub:** https://github.com/XiiinSheng  
-**LinkedIn:** https://linkedin.com/in/xin-sheng-9ba980205/  
+**GitHub:** [https://github.com/XiiinSheng](https://github.com/XiiinSheng)  
+**LinkedIn:** [https://linkedin.com/in/xin-sheng-9ba980205/](https://linkedin.com/in/xin-sheng-9ba980205/)  
 **Resume/CV:** [Resume](Xin_Sheng_mathCS.pdf)
 
 ## [Education](education.md)
