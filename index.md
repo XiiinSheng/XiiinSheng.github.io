@@ -6,12 +6,14 @@ I'm a UCSD Math-Computer Science student graduating in 2023, and a full-stack so
 **LinkedIn:** [https://linkedin.com/in/xin-sheng-9ba980205/](https://linkedin.com/in/xin-sheng-9ba980205/)  
 **Resume/CV:** [Resume](Xin_Sheng_mathCS.pdf)
 
-## [Education](education.md)
+## Education
 ### University of California San Diego: B.S. in Mathematics - Computer Science
 Expected Graduation: June 2023  
 GPA: 3.97
 
-## [Work Experience](workExperience.md)
+[Read More](education.md)
+
+## Work Experience
 ### Listening to Waves | San Diego, California 
 **Software Engineer**  
 January 2022 – Present
@@ -20,7 +22,9 @@ January 2022 – Present
 **Software Developer**  
 June 2021 – February 2022
 
-## [Extracurricular Activities](activities.md)
+[Read More](workExperience.md)
+
+## Extracurricular Activities
 ### Chinese Computer Community at UCSD 
 **Full-stack Tech Lead**  
 October 2020 – Present
@@ -28,6 +32,8 @@ October 2020 – Present
 ### Olive U: Recipe Manager Web Application 
 **Full-stack Developer**  
 September 2021 – December 2021
+
+[Read More](activities.md)
 
 ## Skills
 
